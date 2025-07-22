@@ -1,6 +1,7 @@
 # AWS Project - Build a Full End-to-End Web Application with 7 Services | Step-by-Step Tutorial
 
 This repo is copied from the resource below. 
+
 This repo contains the code files used in this [YouTube video](https://youtu.be/K6v6t5z6AsU).
 
 ## TL;DR
